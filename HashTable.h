@@ -1,21 +1,3 @@
-//****************************************************************************************************
-//
-//		File:					Hashtable.h
-//		
-//		Student:				Manish Bhandari
-//
-//		Assignment:	 			Program  # 9
-//
-//		Course Name:			Data Structures   II 
-//
-//		Course Number:			COSC 3100 - 01
-//
-//		Due:					Oct 16, 2019
-//
-//
-//		This program implements the hash table class to manipulate student data.
-//		
-//****************************************************************************************************
 
 #ifndef HASTHTABLE_H
 #define HASTHTABLE_H
